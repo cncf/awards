@@ -19,6 +19,7 @@ Awarded:
 ### Top End User
 
 -	[Bloomberg](https://www.cncf.io/announcement/2018/05/02/cloud-native-computing-foundation-announces-bloomberg-as-winner-of-top-end-user-award/)
+- [JD.com](https://www.cncf.io/announcement/2018/11/14/jd-wins-top-end-user-award/)
 
 2017
 ----
