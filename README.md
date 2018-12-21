@@ -16,10 +16,35 @@ Awarded:
 2018
 ----
 
+### Top Ambassador
+
+-	[Michael Hausenblas](https://twitter.com/mhausenblas)
+
+### Top Committer
+
+-	[Jordan Liggitt](https://twitter.com/liggitt)
+
+### Chop Wood Carry Water
+
+-	[Davanum Srinivas](https://twitter.com/dims)
+-	[Dianne Mueller](https://twitter.com/pythondj)
+-	[Christoph Blecker](https://twitter.com/tophee)
+-	[Nikhita Raghunath](https://twitter.com/thenikhita)
+-	[Paris Pittman](https://twitter.com/parisbmore)
+-	[Richard Hartmann](https://twitter.com/twitchih)
+-	[Tim Pepper](https://twitter.com/pythomit)
+-	[Stephen Augustus](https://twitter.com/stephenaugustus)
+-	[Kris Nova](https://twitter.com/krisnova)
+-	[Zach Arnold](https://twitter.com/zparnold)
+-	[Reinhard Nägele](https://twitter.com/unguiculus)
+-	[Babak “Bobby” Salamat](https://github.com/bsalamat)
+-	[Jorge Castro](https://twitter.com/castrojo)
+-	[April Kyle Nassi](https://twitter.com/thisisnotapril)
+
 ### Top End User
 
 -	[Bloomberg](https://www.cncf.io/announcement/2018/05/02/cloud-native-computing-foundation-announces-bloomberg-as-winner-of-top-end-user-award/)
-- [JD.com](https://www.cncf.io/announcement/2018/11/14/jd-wins-top-end-user-award/)
+-	[JD.com](https://www.cncf.io/announcement/2018/11/14/jd-wins-top-end-user-award/)
 
 2017
 ----
