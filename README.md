@@ -13,6 +13,13 @@ We traditionally have the following awards (that are rewarded in the different t
 Awarded:
 ========
 
+2019
+----
+
+### Top End User
+
+-	[DiDi](https://www.cncf.io/announcement/2019/06/24/cloud-native-computing-foundation-announces-didi-as-winner-of-top-end-user-award/)
+
 2018
 ----
 
