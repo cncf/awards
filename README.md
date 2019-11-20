@@ -30,16 +30,16 @@ Awarded:
 
 ### Top Committer
 
--	[Jordan Liggitt](https://twitter.com/fredbrancz)
+-	[Frederic Branczyk](https://twitter.com/fredbrancz)
 
 ### Chop Wood Carry Water
 
-- Reda Benzair
-- Katharine Berry
-- Karen Chu
-- Bob Killen
-- Yang Li
-- 张丽颖 Liying (Vivian) Zhang
+- [Reda Benzair](https://twitter.com/BenzairReda)
+- [Katharine Berry](https://twitter.com/KatharineBerry)
+- [Karen Chu](https://twitter.com/karenhchu)
+- [Bob Killen](https://twitter.com/MrBobbyTables)
+- [Yang Li](https://twitter.com/idealhack)
+- [张丽颖 Liying (Vivian) Zhang](https://twitter.com/Vivian_zly7755)
 
 2018
 ----
