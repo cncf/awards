@@ -30,7 +30,7 @@ Awarded:
 
 ### Top Committer
 
--	[Jordan Liggitt](https://twitter.com/fredbrancz)
+-	[Frederic Branczyk](https://twitter.com/fredbrancz)
 
 ### Chop Wood Carry Water
 
