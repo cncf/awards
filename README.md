@@ -21,9 +21,6 @@ Awarded:
 -	[DiDi](https://www.cncf.io/announcement/2019/06/24/cloud-native-computing-foundation-announces-didi-as-winner-of-top-end-user-award/)
 - [Intuit](https://www.cncf.io/announcement/2019/05/21/cloud-native-computing-foundation-announces-intuit-as-winner-of-top-end-user-award/)
 
-2019
-----
-
 ### Top Ambassador
 
 -	[Lachlan Evenson](https://twitter.com/LachlanEvenson)
