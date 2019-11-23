@@ -16,11 +16,6 @@ Awarded:
 2019
 ----
 
-### Top End User
-
--	[DiDi](https://www.cncf.io/announcement/2019/06/24/cloud-native-computing-foundation-announces-didi-as-winner-of-top-end-user-award/)
-- [Intuit](https://www.cncf.io/announcement/2019/05/21/cloud-native-computing-foundation-announces-intuit-as-winner-of-top-end-user-award/)
-
 ### Top Ambassador
 
 -	[Lachlan Evenson](https://twitter.com/LachlanEvenson)
@@ -37,6 +32,11 @@ Awarded:
 - [Bob Killen](https://twitter.com/MrBobbyTables)
 - [Yang Li](https://twitter.com/idealhack)
 - [张丽颖 Liying (Vivian) Zhang](https://twitter.com/Vivian_zly7755)
+
+### Top End User
+
+-	[DiDi](https://www.cncf.io/announcement/2019/06/24/cloud-native-computing-foundation-announces-didi-as-winner-of-top-end-user-award/)
+- [Intuit](https://www.cncf.io/announcement/2019/05/21/cloud-native-computing-foundation-announces-intuit-as-winner-of-top-end-user-award/)
 
 2018
 ----
