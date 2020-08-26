@@ -13,6 +13,13 @@ We traditionally have the following awards (that are rewarded in the different t
 Awarded:
 ========
 
+2020
+----
+
+### Top End User
+
+-	[Zalando](https://www.cncf.io/announcement/2020/08/20/cloud-native-computing-foundation-grants-zalando-the-top-end-user-award/)
+
 2019
 ----
 
