@@ -20,6 +20,21 @@ Awarded:
 
 -	[Zalando](https://www.cncf.io/announcement/2020/08/20/cloud-native-computing-foundation-grants-zalando-the-top-end-user-award/)
 
+### Top Committer
+
+- [Ben Elder](https://twitter.com/BenTheElder) 
+### Top Ambassador
+
+- [Ian Coldwater](https://twitter.com/IanColdwater)
+
+### Chop Wood Carry Water
+- [Bridget Kromhout](https://twitter.com/bridgetkromhout)
+- [Erin Boyd](https://twitter.com/erinaboyd)
+- [Josh Berkus](https://twitter.com/fuzzychef)
+- [Matt Fisher](https://twitter.com/bacongobbler)
+- [Richard Hartmann](https://twitter.com/TwitchiH)
+
+
 2019
 ----
 
