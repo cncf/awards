@@ -13,6 +13,31 @@ We traditionally have the following awards (that are rewarded in the different t
 Awarded:
 ========
 
+2021
+----
+
+### Top Committer: 
+
+- [Nikhita Raghunath](https://twitter.com/TheNikhita) 
+
+### Top Documentarian: 
+
+- Tim Bannister
+
+### Top Ambassador:
+
+- [Anaïs Urlichs](https://twitter.com/urlichsanais)  
+
+### Chop Wood Carry Water: 
+
+- [Emily Fox](https://twitter.com/TheMoxieFox)  
+- [Aeva Black](https://twitter.com/aevavoom) 
+- [Tasha Drew](https://twitter.com/TashaDrew)  
+- [Carlos Panato](https://twitter.com/comedordexis)    
+- [Carolyn Van Slyck](https://twitter.com/carolynvs)
+
+
+
 2020
 ----
 
