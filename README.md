@@ -10,6 +10,8 @@ We traditionally have the following awards (that are rewarded in the different t
 - **Top Documentarian** (since 2021): This award recognizes excellence in documentation contributions to CNCF and its projects. Excellent technical documentation is one of the best ways projects can lower the barrier to contribution.
 - **Chop Wood Carry Water Award**: The special award for the community contributors
 
+# Table of contents 
+
 - [CNCF Community Awards](#cncf-community-awards)
 - [Awarded](#awarded)
   - [2021](#2021)
