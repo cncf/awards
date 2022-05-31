@@ -45,6 +45,12 @@ We traditionally have the following awards (that are rewarded in the different t
 
 # Awarded
 
+## 2022
+
+### Top End User
+
+- Apple
+
 ## 2021
 
 ### Top End User
