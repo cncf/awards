@@ -14,6 +14,11 @@ We traditionally have the following awards (that are rewarded in the different t
 
 - [CNCF Community Awards](#cncf-community-awards)
 - [Awarded](#awarded)
+  - [2022](#2022)
+    - [Top End User](#top-end-user)
+    - [Top Committer](#top-committer)
+    - [Top Documentarian](#top-documentarian)
+    - [Chop Wood Carry Water](#chop-wood-carry-water)
   - [2021](#2021)
     - [Top End User](#top-end-user)
     - [Top Ambassador](#top-ambassador)
