@@ -57,6 +57,18 @@ We traditionally have the following awards (that are rewarded in the different t
 - [Apple](https://www.youtube.com/watch?v=9GIQyQjs36o)
 - [Intuit](https://www.cncf.io/announcements/2022/10/26/cloud-native-computing-foundation-recognizes-intuit-as-top-end-user/)
 
+### Top Committer
+
+- TBD
+
+### Top Documentarian
+
+- TBD
+
+### Chop Wood Carry Water
+
+- TBD
+
 ## 2021
 
 ### Top End User
