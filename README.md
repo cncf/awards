@@ -59,15 +59,20 @@ We traditionally have the following awards (that are rewarded in the different t
 
 ### Top Committer
 
-- TBD
+- Carolyn Van Slyck (@carolynvs)
 
 ### Top Documentarian
 
-- TBD
+- Catherine Paganini (@CathPaga)
+- Rey Lejano (@reylejano) 
 
 ### Chop Wood Carry Water
 
-- TBD
+- Adolfo García Veytia (@puerco)
+- Alex Chircop (@chira001)
+- Catherine Paganini (@CathPaga)
+- Xing Yang (@2000xyang)
+- Patrick Ohly
 
 ## 2021
 
