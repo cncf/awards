@@ -10,89 +10,95 @@ We traditionally have the following awards (that are rewarded in the different t
 - **Top Documentarian** (since 2021): This award recognizes excellence in documentation contributions to CNCF and its projects. Excellent technical documentation is one of the best ways projects can lower the barrier to contribution.
 - **Chop Wood Carry Water Award**: The special award for the community contributors
 
-# Table of contents 
+## Table of contents
 
 - [CNCF Community Awards](#cncf-community-awards)
 - [Awarded](#awarded)
   - [2022](#2022)
-    - [Top End User](#top-end-user)
-    - [Top Committer](#top-committer)
-    - [Top Documentarian](#top-documentarian)
-    - [Chop Wood Carry Water](#chop-wood-carry-water)
+    - [Top End User](#2022-top-end-user)
+    - [Top Committer](#2022-top-committer)
+    - [Top Documentarian](#2022-top-documentarian)
+    - [Chop Wood Carry Water](#2022-chop-wood-carry-water)
   - [2021](#2021)
-    - [Top End User](#top-end-user)
-    - [Top Ambassador](#top-ambassador)
-    - [Top Committer](#top-committer)
-    - [Top Documentarian](#top-documentarian)
-    - [Chop Wood Carry Water](#chop-wood-carry-water)
+    - [Top End User](#2021-top-end-user)
+    - [Top Ambassador](#2021-top-ambassador)
+    - [Top Committer](#2021-top-committer)
+    - [Top Documentarian](#2021-top-documentarian)
+    - [Chop Wood Carry Water](#2021-chop-wood-carry-water)
   - [2020](#2020)
-    - [Top End User](#top-end-user-1)
-    - [Top Committer](#top-committer-1)
-    - [Top Ambassador](#top-ambassador-1)
-    - [Chop Wood Carry Water](#chop-wood-carry-water-1)
+    - [Top End User](#2020-top-end-user)
+    - [Top Committer](#2020-top-committer)
+    - [Top Ambassador](#2020-top-ambassador)
+    - [Chop Wood Carry Water](#2020-chop-wood-carry-water)
   - [2019](#2019)
-    - [Top Ambassador](#top-ambassador-2)
-    - [Top Committer](#top-committer-2)
-    - [Chop Wood Carry Water](#chop-wood-carry-water-2)
-    - [Top End User](#top-end-user-2)
+    - [Top Ambassador](#2019-top-ambassador)
+    - [Top Committer](#2019-top-committer)
+    - [Chop Wood Carry Water](#2019-chop-wood-carry-water)
+    - [Top End User](#2019-top-end-user)
   - [2018](#2018)
-    - [Top Ambassador](#top-ambassador-3)
-    - [Top Committer](#top-committer-3)
-    - [Chop Wood Carry Water](#chop-wood-carry-water-3)
-    - [Top End User](#top-end-user-3)
+    - [Top Ambassador](#2018-top-ambassador)
+    - [Top Committer](#2018-top-committer)
+    - [Chop Wood Carry Water](#2018-chop-wood-carry-water)
+    - [Top End User](#2018-top-end-user)
   - [2017](#2017)
-    - [Top Ambassador](#top-ambassador-4)
-    - [Top Committer](#top-committer-4)
-    - [Chop Wood Carry Water Award](#chop-wood-carry-water-award)
+    - [Top Ambassador](#2017-top-ambassador)
+    - [Top Committer](#2017-top-committer)
+    - [Chop Wood Carry Water Award](#2017-chop-wood-carry-water-award)
   - [2016](#2016)
-    - [Top Ambassador](#top-ambassador-5)
-    - [Top Committer](#top-committer-5)
+    - [Top Ambassador](#2016-top-ambassador)
+    - [Top Committer](#2016-top-committer)
 
-# Awarded
+## Awarded
 
-## 2022
+### 2023
 
-### Top End User
+#### 2023 Top End User
+
+- [Mercedes-Benz Tech Innovation](https://www.cncf.io/announcements/2023/04/21/cncf-presents-top-end-user-award-to-mercedes-benz-tech-innovation/)
+
+### 2022
+
+#### 2022 Top End User
 
 - [Apple](https://www.youtube.com/watch?v=9GIQyQjs36o)
 - [Intuit](https://www.cncf.io/announcements/2022/10/26/cloud-native-computing-foundation-recognizes-intuit-as-top-end-user/)
 
-### Top Committer
+#### 2022 Top Committer
 
 - Carolyn Van Slyck (@carolynvs)
 
-### Top Documentarian
+#### 2022 Top Documentarian
 
 - Catherine Paganini (@CathPaga)
-- Rey Lejano (@reylejano) 
+- Rey Lejano (@reylejano)
 
-### Chop Wood Carry Water
+#### 2022 Chop Wood Carry Water
 
-- Adolfo García Veytia (@puerco)
-- Alex Chircop (@chira001)
-- Catherine Paganini (@CathPaga)
-- Xing Yang (@2000xyang)
+- Adolfo García Veytia ([@puerco](https://github.com/puerco))
+- Alex Chircop ([@chira001](https://github.com/chira001))
+- Catherine Paganini ([@CathPaga](https://github.com/CathPaga))
+- Xing Yang ([@2000xyang](https://github.com/2000xyang))
 - Patrick Ohly
 
-## 2021
+### 2021
 
-### Top End User
+#### 2021 Top End User
 
 - [Spotify](https://www.cncf.io/announcements/2021/05/05/cloud-native-computing-foundation-grants-spotify-the-top-end-user-award/)
 
-### Top Ambassador
+#### 2021 Top Ambassador
 
 - [Anaïs Urlichs](https://twitter.com/urlichsanais)
 
-### Top Committer
+#### 2021 Top Committer
 
 - [Nikhita Raghunath](https://twitter.com/thenikhita)
 
-### Top Documentarian
+#### 2021 Top Documentarian
 
 - [Tim Bannister](https://github.com/sftim)
 
-### Chop Wood Carry Water
+#### 2021 Chop Wood Carry Water
 
 - [Emily Fox](https://twitter.com/TheMoxieFox)
 - [Aeva Black](https://twitter.com/aevavoom)
@@ -100,21 +106,21 @@ We traditionally have the following awards (that are rewarded in the different t
 - [Carlos Panato](https://twitter.com/comedordexis)
 - [Carolyn Van Slyck](https://twitter.com/carolynvs)
 
-## 2020
+### 2020
 
-### Top End User
+#### 2020 Top End User
 
 - [Zalando](https://www.cncf.io/announcement/2020/08/20/cloud-native-computing-foundation-grants-zalando-the-top-end-user-award/)
 
-### Top Committer
+#### 2020 Top Committer
 
 - [Ben Elder](https://twitter.com/BenTheElder)
 
-### Top Ambassador
+#### 2020 Top Ambassador
 
 - [Ian Coldwater](https://twitter.com/IanColdwater)
 
-### Chop Wood Carry Water
+#### 2020 Chop Wood Carry Water
 
 - [Bridget Kromhout](https://twitter.com/bridgetkromhout)
 - [Erin Boyd](https://twitter.com/erinaboyd)
@@ -122,17 +128,17 @@ We traditionally have the following awards (that are rewarded in the different t
 - [Matt Fisher](https://twitter.com/bacongobbler)
 - [Richard Hartmann](https://twitter.com/TwitchiH)
 
-## 2019
+### 2019
 
-### Top Ambassador
+#### 2019 Top Ambassador
 
 - [Lachlan Evenson](https://twitter.com/LachlanEvenson)
 
-### Top Committer
+#### 2019 Top Committer
 
 - [Frederic Branczyk](https://twitter.com/fredbrancz)
 
-### Chop Wood Carry Water
+#### 2019 Chop Wood Carry Water
 
 - [Reda Benzair](https://twitter.com/BenzairReda)
 - [Katharine Berry](https://twitter.com/KatharineBerry)
@@ -141,22 +147,22 @@ We traditionally have the following awards (that are rewarded in the different t
 - [Yang Li](https://twitter.com/idealhack)
 - [张丽颖 Liying (Vivian) Zhang](https://twitter.com/Vivian_zly7755)
 
-### Top End User
+#### 2019 Top End User
 
 - [DiDi](https://www.cncf.io/announcement/2019/06/24/cloud-native-computing-foundation-announces-didi-as-winner-of-top-end-user-award/)
 - [Intuit](https://www.cncf.io/announcement/2019/05/21/cloud-native-computing-foundation-announces-intuit-as-winner-of-top-end-user-award/)
 
-## 2018
+### 2018
 
-### Top Ambassador
+#### 2018 Top Ambassador
 
 - [Michael Hausenblas](https://twitter.com/mhausenblas)
 
-### Top Committer
+#### 2018 Top Committer
 
 - [Jordan Liggitt](https://twitter.com/liggitt)
 
-### Chop Wood Carry Water
+#### 2018 Chop Wood Carry Water
 
 - [Davanum Srinivas](https://twitter.com/dims)
 - [Dianne Mueller](https://twitter.com/pythondj)
@@ -173,23 +179,23 @@ We traditionally have the following awards (that are rewarded in the different t
 - [Jorge Castro](https://twitter.com/castrojo)
 - [April Kyle Nassi](https://twitter.com/thisisnotapril)
 
-### Top End User
+#### 2018 Top End User
 
 - [Bloomberg](https://www.cncf.io/announcement/2018/05/02/cloud-native-computing-foundation-announces-bloomberg-as-winner-of-top-end-user-award/)
 - [JD.com](https://www.cncf.io/announcement/2018/11/14/jd-wins-top-end-user-award/)
 
-## 2017
+### 2017
 
-### Top Ambassador
+#### 2017 Top Ambassador
 
 - [Lucas Käldström](https://twitter.com/kubernetesonarm)
 - [Sarah Novotny](https://twitter.com/sarahnovotny)
 
-### Top Committer
+#### 2017 Top Committer
 
 - [Clayton Coleman](https://twitter.com/smarterclayton)
 
-### Chop Wood Carry Water Award
+#### 2017 Chop Wood Carry Water Award
 
 - [Dan Gillespie](https://twitter.com/ethernetdan)
 - [Dawn Chen](https://github.com/dchen1107)
@@ -198,13 +204,13 @@ We traditionally have the following awards (that are rewarded in the different t
 - [Brandon Philips](https://twitter.com/brandonphilips)
 - [Julius Volz](https://twitter.com/juliusvolz)
 
-## 2016
+### 2016
 
-### Top Ambassador
+#### 2016 Top Ambassador
 
 - [Kelsey Hightower](https://twitter.com/kelseyhightower)
 
-### Top Committer
+#### 2016 Top Committer
 
 - [Tim Hockin](https://twitter.com/thockin)
 - [Fabian Reinartz](https://twitter.com/fabxc)
