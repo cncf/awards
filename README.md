@@ -6,7 +6,7 @@ We traditionally have the following awards (that are rewarded in the different t
 
 - **Top Ambassador**: A champion for the cloud native space, this individual helps spread awareness of the CNCF and its projects. The CNCF Ambassador leverages multiple platforms, both online as well as speaking engagements, driving interest and excitement around the ecosystem.
 - **Top Committer**: This will recognize excellence in technical contributions to CNCF and its projects. The CNCF Top Committer has made key commits to projects and, more importantly, contributes in a way that benefits the project neutrally as a whole.
-- **Top End User**: The special award for the [CNCF End User Community](https://www.cncf.io/people/end-user-community/) representatives in recognition of major contributions to the cloud native ecosystem. All end users can be nominated, but end user members can not win two consecutive years in a row.
+- **Top End User**: The special award for the [CNCF End User Community](https://www.cncf.io/enduser/) representatives in recognition of major contributions to the cloud native ecosystem. All end users can be nominated, but end user members can not win two consecutive years in a row.
 - **Top Documentarian** (since 2021): This award recognizes excellence in documentation contributions to CNCF and its projects. Excellent technical documentation is one of the best ways projects can lower the barrier to contribution.
 - **Chop Wood Carry Water Award**: The special award for the community contributors
 
@@ -14,6 +14,8 @@ We traditionally have the following awards (that are rewarded in the different t
 
 - [CNCF Community Awards](#cncf-community-awards)
 - [Awarded](#awarded)
+  - [2023](#2023)
+    - [Top End User](#2023-top-end-user)
   - [2022](#2022)
     - [Top End User](#2022-top-end-user)
     - [Top Committer](#2022-top-committer)
@@ -65,12 +67,12 @@ We traditionally have the following awards (that are rewarded in the different t
 
 #### 2022 Top Committer
 
-- Carolyn Van Slyck (@carolynvs)
+- Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs))
 
 #### 2022 Top Documentarian
 
-- Catherine Paganini (@CathPaga)
-- Rey Lejano (@reylejano)
+- Catherine Paganini ([@CathPaga](https://github.com/CathPaga))
+- Rey Lejano ([@reylejano](https://github.com/reylejano))
 
 #### 2022 Chop Wood Carry Water
 
