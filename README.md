@@ -2,13 +2,13 @@
 
 CNCF Community Awards will reward the community members, developers and advocates working hardest to advance cloud native.
 
-We traditionally have the following awards (that are rewarded in the different times per year):
+We traditionally have the following awards, rewarded at different times of each calendar year:
 
 - **Top Ambassador**: A champion for the cloud native space, this individual helps spread awareness of the CNCF and its projects. The CNCF Ambassador leverages multiple platforms, both online as well as speaking engagements, driving interest and excitement around the ecosystem.
 - **Top Committer**: This will recognize excellence in technical contributions to CNCF and its projects. The CNCF Top Committer has made key commits to projects and, more importantly, contributes in a way that benefits the project neutrally as a whole.
 - **Top End User**: The special award for the [CNCF End User Community](https://www.cncf.io/enduser/) representatives in recognition of major contributions to the cloud native ecosystem. All end users can be nominated, but end user members can not win two consecutive years in a row.
 - **Top Documentarian** (since 2021): This award recognizes excellence in documentation contributions to CNCF and its projects. Excellent technical documentation is one of the best ways projects can lower the barrier to contribution.
-- **Chop Wood Carry Water Award**: The special award for the community contributors
+- **Chop Wood Carry Water Award**: A distinguished award for community contributors.
 
 ## Table of contents
 
