@@ -71,15 +71,15 @@ We traditionally have the following awards, rewarded at different times of each 
 
 #### 2022 Top Documentarian
 
-- Catherine Paganini ([@CathPaga](https://github.com/CathPaga))
+- Catherine Paganini ([@CathPaga](https://twitter.com/CathPaga))
 - Rey Lejano ([@reylejano](https://github.com/reylejano))
 
 #### 2022 Chop Wood Carry Water
 
 - Adolfo García Veytia ([@puerco](https://github.com/puerco))
 - Alex Chircop ([@chira001](https://github.com/chira001))
-- Catherine Paganini ([@CathPaga](https://github.com/CathPaga))
-- Xing Yang ([@2000xyang](https://github.com/2000xyang))
+- Catherine Paganini ([@CathPaga](https://twitter.com/CathPaga))
+- Xing Yang ([@2000xyang](https://twitter.com/2000xyang))
 - Patrick Ohly
 
 ### 2021
