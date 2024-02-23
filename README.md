@@ -16,6 +16,11 @@ We traditionally have the following awards, rewarded at different times of each 
 - [Awarded](#awarded)
   - [2023](#2023)
     - [Top End User](#2023-top-end-user)
+    - [Top Committer](#2023-top-committer)
+    - [Top Documentarian](#2023-top-documentarian)
+    - [Chop Wood Carry Water](#2023-chop-wood-carry-water)
+    - [The TAGGIE](#2023-the-taggie)
+    - [Small but Mighty](#2023-small-but-mighty)
   - [2022](#2022)
     - [Top End User](#2022-top-end-user)
     - [Top Committer](#2022-top-committer)
@@ -57,6 +62,30 @@ We traditionally have the following awards, rewarded at different times of each 
 #### 2023 Top End User
 
 - [Mercedes-Benz Tech Innovation](https://www.cncf.io/announcements/2023/04/21/cncf-presents-top-end-user-award-to-mercedes-benz-tech-innovation/)
+
+#### 2023 Top Committer
+
+- Akihiro Suda ([@AkihiroSuda](https://twitter.com/_AkihiroSuda_))
+
+#### 2023 Top Documentarian
+
+- Divya Mohan ([@divya-mohan0209](https://twitter.com/divya_mohan02))
+
+#### 2023 Chop Wood Carry Water
+
+- Kaslin Fields ([@kaslinfields](https://twitter.com/kaslinfields))
+- Faseela K ([@kfaseela](https://twitter.com/faseeladilshan))
+- Arnaud Meukam ([@ameukam](https://twitter.com/ameukam))
+- Lin Sun ([@linsun](https://twitter.com/linsun_unc))
+- Rajas Kakodkar ([@RajasKakodkar](https://twitter.com/rajaskakodkar))
+
+#### 2023 The TAGGIE
+
+- Catherine Paganini ([@CathPaga](https://twitter.com/CathPaga))
+
+#### 2023 Small but Mighty
+
+- [Weaveworks](https://www.weave.works/)
 
 ### 2022
 
