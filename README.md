@@ -62,6 +62,7 @@ We traditionally have the following awards, rewarded at different times of each 
 #### 2023 Top End User
 
 - [Mercedes-Benz Tech Innovation](https://www.cncf.io/announcements/2023/04/21/cncf-presents-top-end-user-award-to-mercedes-benz-tech-innovation/)
+- [Spotify](https://www.cncf.io/announcements/2023/11/08/cloud-native-computing-foundation-presents-the-top-end-user-award-to-spotify/)
 
 #### 2023 Top Committer
 
