@@ -16,6 +16,8 @@ We traditionally have the following awards, rewarded at different times of each 
 
 - [CNCF Community Awards](#cncf-community-awards)
 - [Awarded](#awarded)
+  - [2024](#2024)
+    - [Top End User](#2024-top-end-user)
   - [2023](#2023)
     - [Top End User](#2023-top-end-user)
     - [Top Committer](#2023-top-committer)
@@ -58,6 +60,13 @@ We traditionally have the following awards, rewarded at different times of each 
     - [Top Committer](#2016-top-committer)
 
 ## Awarded
+
+### 2024
+
+#### 2024 Top End User
+
+- [CERN](https://www.cncf.io/announcements/2024/03/21/cloud-native-computing-foundation-announces-cern-as-the-top-end-user-award-winner/)
+- [Adobe](https://www.cncf.io/announcements/2024/11/14/cncf-presents-top-end-user-award-to-adobe/)
 
 ### 2023
 
