@@ -18,6 +18,12 @@ We traditionally have the following awards, rewarded at different times of each 
 - [Awarded](#awarded)
   - [2024](#2024)
     - [Top End User](#2024-top-end-user)
+    - [Lifetime Achievement](#2024-lifetime-achievement)
+    - [Top Committer](#2024-top-committer)
+    - [Top Documentarian](#2024-top-documentarian)
+    - [Chop Wood Carry Water](#2024-chop-wood-carry-water)
+    - [The TAGGIE](#2024-the-taggie)
+    - [Lift and Shift](#2024-lift-and-shift)
   - [2023](#2023)
     - [Top End User](#2023-top-end-user)
     - [Top Committer](#2023-top-committer)
@@ -67,6 +73,51 @@ We traditionally have the following awards, rewarded at different times of each 
 
 - [CERN](https://www.cncf.io/announcements/2024/03/21/cloud-native-computing-foundation-announces-cern-as-the-top-end-user-award-winner/)
 - [Adobe](https://www.cncf.io/announcements/2024/11/14/cncf-presents-top-end-user-award-to-adobe/)
+
+#### 2024 Lifetime Achievement
+
+Tim Hockin ([thockin](https://github.com/thockin))
+
+#### 2024 Top Committer
+
+Joe Stringer ([joestringer](https://github.com/joestringer))
+
+#### 2024 Top Documentarian
+
+- Qiming Teng ([tengqm](https://github.com/tengqm))
+- Michael Yao ([windsonsea](https://github.com/windsonsea))
+
+#### 2024 Chop Wood Carry Water
+
+- Sandeep Kanabar ([sandeepkanabar](https://github.com/sandeepkanabar))
+- Ali Ok ([aliok](https://github.com/aliok))
+- William Rizzo ([wrkode](https://github.com/wrkode))
+- Priyanka Saggu ([Priyankasaggu11929](https://github.com/Priyankasaggu11929))
+- Stefan Schimanski ([sttts](https://github.com/sttts))
+- James Spurin ([spurin](https://github.com/spurin))
+
+#### 2024 The TAGGIE
+
+Nancy Chauhan ([Nancy-Chauhan](https://github.com/Nancy-Chauhan))
+
+#### 2024 Lift and Shift
+
+- Aaron Crickenberger ([spiffxp](https://github.com/spiffxp))
+- Arnaud Meukam ([ameukam](https://github.com/ameukam))
+- Ben Elder ([bentheelder](https://github.com/bentheelder))
+- Caleb Woodbine ([bobymcbobs](http://bobymcbobs/))
+- Cole Wagner ([cjwagner](https://github.com/cjwagner))
+- Davanum Srinivas ([dims](https://github.com/dims))
+- Hippie Hacker ([hh](https://github.com/hh))
+- Justin Santa Barbara ([justinsb](https://github.com/justinsb))
+- Koray Oksay ([koksay](https://github.com/koksay))
+- Linus Arver ([listx](https://github.com/listx))
+- Mahamed Ali ([upodroid](https://github.com/upodroid))
+- Marko Mudrinić ([xmudrii](https://github.com/xmudrii))
+- Michelle Shepardson ([michelle192837](https://github.com/michelle192837))
+- Patryk Przekwas ([pkprzekwas](https://github.com/pkprzekwas))
+- Ricky Sadowski ([rjsadow](https://github.com/rjsadow))
+- Tim Hockin ([thockin](https://github.com/thockin))
 
 ### 2023
 
