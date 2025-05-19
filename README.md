@@ -16,6 +16,8 @@ We traditionally have the following awards, rewarded at different times of each 
 
 - [CNCF Community Awards](#cncf-community-awards)
 - [Awarded](#awarded)
+  - [2025](#2025)
+    - [Top End User](#2025-top-end-user)
   - [2024](#2024)
     - [Top End User](#2024-top-end-user)
     - [Lifetime Achievement](#2024-lifetime-achievement)
@@ -66,6 +68,11 @@ We traditionally have the following awards, rewarded at different times of each 
     - [Top Committer](#2016-top-committer)
 
 ## Awarded
+
+### 2025
+
+#### 2025 Top End User
+  - [ANT Group](https://www.cncf.io/announcements/2025/04/03/cloud-native-computing-foundation-announces-ant-group-as-the-top-end-user-award-winner/)
 
 ### 2024
 
