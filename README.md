@@ -16,6 +16,21 @@ We traditionally have the following awards, rewarded at different times of each 
 
 - [CNCF Community Awards](#cncf-community-awards)
 - [Awarded](#awarded)
+
+#### 2026 Top End User
+  - [SNCF](https://www.groupe-sncf.com/en) 
+
+#### 2026 Outstanding Mentor
+  - [Hung-Ying Tai (hydai)](https://www.linkedin.com/in/hydai/)
+
+#### 2026 The TAGGIE
+  - [Brandt Keller](https://www.cncf.io/people/ambassadors/?p=brandt-keller)
+  - [Carol Valencia](https://www.linkedin.com/in/dylandanielpage/)
+  - [Dylan Page](https://www.linkedin.com/in/dylandanielpage/)
+  - [Josh Gavant](https://www.cncf.io/people/ambassadors/?p=josh-gavant)
+  - [Yoshiyuki Tabata](https://www.cncf.io/people/ambassadors/?p=yoshiyuki-tabata)
+ 
+  
   - [2025](#2025)
     - [Top End User](#2025-top-end-user)
   - [2024](#2024)
